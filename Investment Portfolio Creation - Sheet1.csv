@@ -1,0 +1,23 @@
+,,,,,,
+,,Asset Allocation & Trade Execution Model,,,,
+,,,,,,
+Asset Class,Ticker Symbol,Asset Name,Current Price (₹),Target Allocation (%),Target Amount (₹),Shares to Buy
+ETF,NSE:NIFTYBEES,Nippon India Nifty 50 ETF,273.44,35.00%,35000,127
+ETF,NSE:SILVERBEES,Nippon India Silver ETF,231.05,5.00%,5000,21
+Stock,NSE:RELIANCE,Reliance Industries Ltd.,1330.9,15.00%,15000,11
+Stock,NSE:HDFCBANK,HDFC Bank Ltd.,796.1,15.00%,15000,18
+Stock,NSE:INFY,Infosys Ltd.,1131.9,15.00%,15000,13
+Crypto,CURRENCY:BTCINR,Bitcoin (INR),6073890.294,10.00%,10000,0.0016
+Crypto,CURRENCY:ETHINR,Ethereum (INR),164936.4909,5.00%,5000,0.0303
+Total,,,-,100.00%,100000,-
+,,,,,,
+,,,,Uninvested Cash,"₹2,020.87",
+,,,,,,
+,,,,,,
+,,Asset Class Summary & Weighting,,,,
+,,,,,,
+,Asset Class,Current Value (₹),Actual Weight (%),Target Weight (%),,
+,ETF,"40,000.00",40.00%,40.00%,,
+,Stock,"45,000.00",45.00%,45.00%,,
+,Crypto,"15,000.00",15.00%,15.00%,,
+,Total,"100,000.00",100.00%,100.00%,,
