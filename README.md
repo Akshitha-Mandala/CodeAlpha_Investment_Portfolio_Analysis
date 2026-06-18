@@ -5,7 +5,7 @@ A professional, dynamic asset allocation and trade execution model built in Goog
 
 ## 🚀 Live Project Links
 *   **Interactive Google Sheet:** [https://docs.google.com/spreadsheets/d/1PzTlxwbSa_KWB7d9oYclmpWXQ6XnaYkqMierTGJv6Hs/edit?usp=sharing]
-*   **Strategic Report (PDF):** 
+*   **Strategic Report (PDF):** [https://docs.google.com/document/d/1ksw_4q0ndyOhai-HcohRljR4URgKiYWERq4gwlMPbTQ/edit?usp=sharing]
 
 ---
 
@@ -17,9 +17,3 @@ A professional, dynamic asset allocation and trade execution model built in Goog
 *   **Data Aggregation Summary:** Implements `=SUMIF()` arrays to feed an independent asset class matrix and render a real-time allocation breakdown visual.
 
 ---
-
-## 📂 Repository Structure
-
-```text
-├── README.md               # Project overview and documentation
-└── Portfolio_Report.pdf    # Full 1-2 page strategic rationale and asset breakdown 
